@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5dc;  /* Warna coklat pastel untuk latar belakang */
+    color: #333333;
+}
+
+.navbar {
+    background-color: #d2b48c !important;  /* Warna coklat pastel untuk navbar */
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important;  /* Warna putih untuk teks di navbar */
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.navbar-toggler {
+    border-color: #ffffff !important;
+}
+
+h1, h2, h3 {
+    color: #8b4513;  /* Warna coklat lebih tua untuk judul */
+}
+
+.card {
+    border: 1px solid #deb887;  /* Border warna coklat muda untuk kartu */
+    background-color: #ffffff;  /* Latar belakang putih untuk kartu */
+}
+
+.card-title {
+    color: #8b4513;  /* Warna coklat lebih tua untuk judul kartu */
+}
+
+.card-text {
+    color: #666666;
+}
+
+.btn-primary {
+    background-color: #a0522d;
+    border-color: #a0522d;
+}
+
+.btn-primary:hover {
+    background-color: #8b4513;
+    border-color: #8b4513;
+}
+
+.footer {
+    background-color: #d2b48c;  /* Warna coklat pastel untuk footer */
+    color: #ffffff;
+}
+
+.list-group-item {
+    border: 1px solid #deb887;
+}
+
+.list-group-item:hover {
+    background-color: #f5f5dc;
+}
+
+.list-group-item.active {
+    background-color: #d2b48c;
+    border-color: #d2b48c;
+}
